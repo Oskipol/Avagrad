@@ -43,4 +43,4 @@ texture={
 
 [rendering]
 
-environment/default_environment="res://default_env.tres"
+environment/default_environment="res://World/Tilesets/default_env.tres"
