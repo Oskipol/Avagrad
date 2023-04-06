@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grass.png-26e5ce6b15d8108ec77d30209453299f.stex"
+path="res://.import/LargeShadow.png-1c8253733dbca37799250fb884ea57ff.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://World/Tilesets/grass.png"
-dest_files=[ "res://.import/grass.png-26e5ce6b15d8108ec77d30209453299f.stex" ]
+source_file="res://World/Shadows/LargeShadow.png"
+dest_files=[ "res://.import/LargeShadow.png-1c8253733dbca37799250fb884ea57ff.stex" ]
 
 [params]
 

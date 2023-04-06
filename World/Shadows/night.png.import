@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/2023-04-05-151923-Rysunek 5 .png-a01279ac52b7a1106af89d23dfe282b1.stex"
+path="res://.import/night.png-0a4cad104bad8dec96937a8901326cea.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://World/Objects/2023-04-05-151923-Rysunek 5 .png"
-dest_files=[ "res://.import/2023-04-05-151923-Rysunek 5 .png-a01279ac52b7a1106af89d23dfe282b1.stex" ]
+source_file="res://World/Shadows/night.png"
+dest_files=[ "res://.import/night.png-0a4cad104bad8dec96937a8901326cea.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=false

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grass.png-26e5ce6b15d8108ec77d30209453299f.stex"
+path="res://.import/animacja.png-827c0457e00eb9c3d6800ef5ce651127.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://World/Tilesets/grass.png"
-dest_files=[ "res://.import/grass.png-26e5ce6b15d8108ec77d30209453299f.stex" ]
+source_file="res://Player/animacja.png"
+dest_files=[ "res://.import/animacja.png-827c0457e00eb9c3d6800ef5ce651127.stex" ]
 
 [params]
 
